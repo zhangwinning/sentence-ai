@@ -25,7 +25,7 @@ export default function RootLayout({
       </body>
       <footer className="mt-12 flex justify-center">
         <Link
-          href="https://github.com/rodgetech/cron-ai"
+          href="https://github.com/zhangwinning/sentence-ai"
           target="_blank"
           className="flex items-center space-x-2 text-neutral-600"
         >
